@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009574820017",
+    "project_id": "shikhshasetu",
+    "storage_bucket": "shikhshasetu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009574820017:android:b05a59b38dd4ec48a3ca90",
+        "android_client_info": {
+          "package_name": "com.apps.shikshasetutution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ivrMM6PIsEn7fcnhGB2U787Ocnp2p_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
